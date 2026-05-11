@@ -4,7 +4,7 @@ Kumpulan proyek latihan HTML & CSS untuk pemula oleh **Dhea Kurniawan**.
 
 ## Live Demo ← tambah di sini
 
-[https://github.com/Dekaa19/project-beginner/tree/main/single-page-cv](https://github.com/Dekaa19/project-beginner/tree/main/single-page-cv)
+https://github.com/Dekaa19/project-beginner/tree/main/single-page-cv
 
 ---
 
