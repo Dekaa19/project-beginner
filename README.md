@@ -9,3 +9,4 @@ https://github.com/Dekaa19/project-beginner
 ## Daftar Proyek
 
 - single-page-cv: Halaman CV pribadi menggunakan HTML semantik murni
+  https://github.com/Dekaa19/project-beginner/blob/main/single-page-cv/index.html
